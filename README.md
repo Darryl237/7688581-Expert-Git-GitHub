@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Vous ne trouverez pas les étapes pour avoir un environement de dévéloppement et de test ici
 
 
 ```
